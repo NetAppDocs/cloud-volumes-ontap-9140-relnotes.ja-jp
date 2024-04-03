@@ -20,6 +20,18 @@ Cloud Volumes ONTAP 9.14.0には、新しい機能拡張が含まれています
 
 
 
+== 9.14.0 P2（2024年4月1日）
+
+すべてのクラウドプロバイダを対象に、Cloud Volumes ONTAPで9.14.0 P2パッチが提供されるようになりました。このパッチは、手動アップグレードにのみ使用できます。を参照してください https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-updating-ontap-cloud.html#upgrade-from-bluexp-notifications["URL にあるイメージからアップグレードします"]。
+
+link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.14.0P2["P2パッチで修正されたバグの一覧を表示する"^] （NetApp Support Siteへのログインが必要です）。
+
+これがこのリリースの最後のパッチです。今後は、Cloud Volumes ONTAP 9.14.0を9.14.1にアップグレードすることをお勧めします。
+
+https://docs.netapp.com/us-en/cloud-volumes-ontap-relnotes/index.html["Cloud Volumes ONTAP 9.14.1リリースノート"^]
+
+
+
 == 9.14.0 P1（2023年11月10日）
 
 バージョン3.9.27以降を実行しているコネクタを使用している場合、すべてのクラウドプロバイダでCloud Volumes ONTAP 9.14.0 P1パッチを利用できるようになりました。BlueXPでは、既存のシステムをこのパッチリリースにアップグレードするように求められます。
