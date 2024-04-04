@@ -724,11 +724,7 @@ HAペア：18（ノード^1^</block>
   <block id="68c68c70121e1d9364223bb9fded83b0" category="list-text">Cloud Volumes ONTAP 9.13.1以降のBlueXP</block>
   <block id="ea8e9cb87ad8076ed2bdd562222045c8" category="cell">300TB</block>
   <block id="b8669dd4be6e14a3f0a4fcc02dda79a3" category="section-title">9.14.0 P2（2024年4月1日）</block>
-  <block id="8a2e35e048f2fec22cf01ac1e91ac6e6" category="inline-link">URL にあるイメージからアップグレードします</block>
-  <block id="17080ce14b30f5e8925e51145d5b1032" category="paragraph">すべてのクラウドプロバイダを対象に、Cloud Volumes ONTAPで9.14.0 P2パッチが提供されるようになりました。このパッチは、手動アップグレードにのみ使用できます。を参照してください<block ref="616322dd48f91de2669b4ad12a0e820d" category="inline-link-rx"></block>。</block>
   <block id="ce5d0c77f167b881391469fc27895727" category="inline-link-macro">P2パッチで修正されたバグの一覧を表示する</block>
   <block id="d01dcd7dd0571bc5938e104d16f1b241" category="paragraph"><block ref="35ccd464ef6dcc704dd5444888751abc" category="inline-link-macro-rx"></block> （NetApp Support Siteへのログインが必要です）。</block>
-  <block id="8c9e25527d8d001ea4984375636533f6" category="paragraph">これがこのリリースの最後のパッチです。今後は、Cloud Volumes ONTAP 9.14.0を9.14.1にアップグレードすることをお勧めします。</block>
-  <block id="3f93d29b3f8dc957c8b9ced853857b76" category="inline-link">Cloud Volumes ONTAP 9.14.1リリースノート</block>
-  <block id="04288d19cfed9e5f660c0fbfee97b713" category="paragraph"><block ref="04288d19cfed9e5f660c0fbfee97b713" category="inline-link-rx"></block></block>
+  <block id="6a9fe68abfa73dffd725487a9c628441" category="paragraph">すべてのクラウドプロバイダを対象に、Cloud Volumes ONTAPで9.14.0 P2パッチが提供されるようになりました。BlueXPでは、既存のシステムをこのパッチリリースにアップグレードするように求められます。</block>
 </blocks>
